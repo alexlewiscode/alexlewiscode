@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="430" viewBox="0 0 370 430" role="img" aria-labelledby="title desc">
+<title id="title">Animated ASCII portrait of Alexander Lewis</title>
+<desc id="desc">A monochrome portrait generated from the alexlewiscode GitHub avatar.</desc>
+<rect x="1" y="1" width="368" height="428" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="21" r="5" fill="#ff5f56"/><circle cx="39" cy="21" r="5" fill="#ffbd2e"/><circle cx="56" cy="21" r="5" fill="#27c93f"/>
+<text x="185" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,monospace" font-size="11">avatar-ascii.svg</text>
+<defs>
+<clipPath id="row-0"><rect x="12" y="57.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.000s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-1"><rect x="12" y="65.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.045s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-2"><rect x="12" y="73.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.090s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-3"><rect x="12" y="81.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.135s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-4"><rect x="12" y="89.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.180s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-5"><rect x="12" y="97.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.225s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-6"><rect x="12" y="105.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.270s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-7"><rect x="12" y="113.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.315s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-8"><rect x="12" y="121.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.360s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-9"><rect x="12" y="129.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.405s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-10"><rect x="12" y="137.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.450s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-11"><rect x="12" y="145.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.495s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-12"><rect x="12" y="153.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.540s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-13"><rect x="12" y="161.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.585s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-14"><rect x="12" y="169.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.630s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-15"><rect x="12" y="177.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.675s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-16"><rect x="12" y="185.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.720s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-17"><rect x="12" y="193.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.765s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-18"><rect x="12" y="201.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.810s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-19"><rect x="12" y="209.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.855s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-20"><rect x="12" y="217.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.900s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-21"><rect x="12" y="225.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.945s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-22"><rect x="12" y="233.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="0.990s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-23"><rect x="12" y="241.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.035s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-24"><rect x="12" y="249.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.080s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-25"><rect x="12" y="257.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.125s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-26"><rect x="12" y="265.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.170s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-27"><rect x="12" y="273.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.215s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-28"><rect x="12" y="281.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.260s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-29"><rect x="12" y="289.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.305s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-30"><rect x="12" y="297.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.350s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-31"><rect x="12" y="305.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.395s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-32"><rect x="12" y="313.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.440s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-33"><rect x="12" y="321.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.485s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-34"><rect x="12" y="329.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.530s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-35"><rect x="12" y="337.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.575s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-36"><rect x="12" y="345.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.620s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-37"><rect x="12" y="353.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.665s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-38"><rect x="12" y="361.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.710s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-39"><rect x="12" y="369.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.755s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-40"><rect x="12" y="377.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.800s" fill="freeze"/></rect></clipPath>
+<clipPath id="row-41"><rect x="12" y="385.0" width="0" height="9.0"><animate attributeName="width" from="0" to="346" dur="0.65s" begin="1.845s" fill="freeze"/></rect></clipPath>
+</defs>
+<text x="12" y="64.0" clip-path="url(#row-0)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="72.0" clip-path="url(#row-1)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="80.0" clip-path="url(#row-2)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="88.0" clip-path="url(#row-3)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="96.0" clip-path="url(#row-4)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="104.0" clip-path="url(#row-5)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                           ....</text>
+<text x="12" y="112.0" clip-path="url(#row-6)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                     ;2hG#9B&amp;BBB9#SH3A;:.</text>
+<text x="12" y="120.0" clip-path="url(#row-7)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                  :2GB@@@@@@@@@@@@@@@@@&amp;B#M2X;,.</text>
+<text x="12" y="128.0" clip-path="url(#row-8)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                :5#@@@@@@@@@@@@@@@@@@@@@@@@@&amp;#G3Asi:.</text>
+<text x="12" y="136.0" clip-path="url(#row-9)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">               :G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@9Gh5Asi:</text>
+<text x="12" y="144.0" clip-path="url(#row-10)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              ,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;9#H2Xssr:,</text>
+<text x="12" y="152.0" clip-path="url(#row-11)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              X9@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BG332sir;.,</text>
+<text x="12" y="160.0" clip-path="url(#row-12)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              iHB@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;9MArsiii;.</text>
+<text x="12" y="168.0" clip-path="url(#row-13)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              .5#B@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;9M5si::,,.</text>
+<text x="12" y="176.0" clip-path="url(#row-14)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              ;hB@@@@@@@@@@@@@@@@@@@@@@@@@@@@B#M2s;,,</text>
+<text x="12" y="184.0" clip-path="url(#row-15)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              sHB@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;9H3Xr:,.</text>
+<text x="12" y="192.0" clip-path="url(#row-16)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              r5MS#9&amp;@@@@&amp;B9#SGMHHGHHSGGSSH3AX;,</text>
+<text x="12" y="200.0" clip-path="url(#row-17)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                 ..,;irii:.</text>
+<text x="12" y="208.0" clip-path="url(#row-18)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="216.0" clip-path="url(#row-19)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="224.0" clip-path="url(#row-20)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="232.0" clip-path="url(#row-21)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                      ;s;.</text>
+<text x="12" y="240.0" clip-path="url(#row-22)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                     X#B99GMA;,</text>
+<text x="12" y="248.0" clip-path="url(#row-23)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                    ;B@@@@@@@@B#h2r;.,.,iAhMhHh2s,</text>
+<text x="12" y="256.0" clip-path="url(#row-24)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                 .XMB@@@@@@@@@@@@@@&amp;BB9&amp;@@@@@@@@@#Hh5Xr;;,</text>
+<text x="12" y="264.0" clip-path="url(#row-25)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              iAHB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B9G2s;,</text>
+<text x="12" y="272.0" clip-path="url(#row-26)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              29@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;BB#Gh25r,</text>
+<text x="12" y="280.0" clip-path="url(#row-27)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              iS@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;BGM5Xi;:.</text>
+<text x="12" y="288.0" clip-path="url(#row-28)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">              .5GSGS#GMh3hMHhh#B@@@@@@@&amp;9SM3Xi:.</text>
+<text x="12" y="296.0" clip-path="url(#row-29)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                :,            iX2HGGGM5Ai.</text>
+<text x="12" y="304.0" clip-path="url(#row-30)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                   :.        ;Hh3MMh3Asi,</text>
+<text x="12" y="312.0" clip-path="url(#row-31)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                  s2;       ;G@@@@&amp;B9H3Xri:</text>
+<text x="12" y="320.0" clip-path="url(#row-32)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                 :25s,   .;XG&amp;@@@@@&amp;#GHAXs;.</text>
+<text x="12" y="328.0" clip-path="url(#row-33)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve">                 .:r;,  :iX3hMMHSSH35Ai:::</text>
+<text x="12" y="336.0" clip-path="url(#row-34)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="344.0" clip-path="url(#row-35)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="352.0" clip-path="url(#row-36)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="360.0" clip-path="url(#row-37)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="368.0" clip-path="url(#row-38)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="376.0" clip-path="url(#row-39)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="384.0" clip-path="url(#row-40)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="12" y="392.0" clip-path="url(#row-41)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="5.0" xml:space="preserve"></text>
+<text x="16" y="412" fill="#3fb950" font-family="ui-monospace,monospace" font-size="10">alex@github:~$</text>
+<rect x="104" y="403" width="7" height="11" fill="#3fb950"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
