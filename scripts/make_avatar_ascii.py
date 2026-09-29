@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import html
 import os
+import sys
 from io import BytesIO
 from pathlib import Path
 
@@ -20,14 +21,25 @@ RAMP = " .,:;irsXA253hMHGS#9B&@"
 
 def main() -> None:
     static = os.getenv("STATIC") == "1"
-    response = requests.get(AVATAR_URL, timeout=30, headers={"User-Agent": f"{USERNAME}-profile-readme/1.0"})
-    response.raise_for_status()
-    image = Image.open(BytesIO(response.content)).convert("L")
-    subject_box = image.point(lambda value: 255 if value > 16 else 0).getbbox()
+    source = Path(sys.argv[1]) if len(sys.argv) > 1 else None
+    if source:
+        image = Image.open(source).convert("L")
+        # Light-background artwork is inverted so the background maps to blank cells.
+        light_background = sum(image.getpixel(point) for point in [(0, 0), (image.width - 1, 0), (0, image.height - 1), (image.width - 1, image.height - 1)]) / 4 > 127
+        if light_background:
+            subject_box = image.point(lambda value: 255 if value < 160 else 0).getbbox()
+            image = ImageOps.invert(image)
+        else:
+            subject_box = image.point(lambda value: 255 if value > 16 else 0).getbbox()
+    else:
+        response = requests.get(AVATAR_URL, timeout=30, headers={"User-Agent": f"{USERNAME}-profile-readme/1.0"})
+        response.raise_for_status()
+        image = Image.open(BytesIO(response.content)).convert("L")
+        subject_box = image.point(lambda value: 255 if value > 16 else 0).getbbox()
     if subject_box:
         left, top, right, bottom = subject_box
         subject_width, subject_height = right - left, bottom - top
-        side = int(max(subject_width, subject_height) * 1.35)
+        side = int(max(subject_width, subject_height) * (1.15 if source and light_background else 1.35))
         center_x, center_y = (left + right) // 2, (top + bottom) // 2
         crop_left = max(0, center_x - side // 2)
         crop_top = max(0, center_y - side // 2)
@@ -44,7 +56,8 @@ def main() -> None:
         for x in range(image.width):
             value = image.getpixel((x, y))
             # The source avatar has a black background, so low luminance becomes empty space.
-            normalized = 0 if value < 18 else min(255, int((value - 18) * 1.08))
+            cutoff = 35 if source and light_background else 18
+            normalized = 0 if value < cutoff else min(255, int((value - cutoff) * 1.08))
             chars.append(RAMP[round(normalized / 255 * (len(RAMP) - 1))])
         rows.append("".join(chars).rstrip())
 
